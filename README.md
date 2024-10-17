@@ -1,9 +1,9 @@
 Hi! I’m Sanyam Jain, an MBA graduate from York St. John University. I have a strong financial analysis, data management, and business economics foundation. I am a motivated individual who values collaboration, attention to detail, and continuous learning. I’m currently seeking opportunities to leverage my skills and contribute to meaningful projects.
 
 ## Education
-- **MBA**, York St. John University (2023-2024)  
-- **MBA (Financial Management)**, Indira Gandhi National Open University (2020-2022)  
-- **B.A. (Hons.) Business Economics**, University of Delhi (2017-2020)  
+- **MBA**, York St. John University, UK (2023-2024)  
+- **MBA (Financial Management)**, Indira Gandhi National Open University, India (2020-2022)  
+- **B.A. (Hons.) Business Economics**, University of Delhi, India (2017-2020)  
 
 ## Experience
 During my time at Morningstar, Inc., I managed high-volume financial data analysis, implemented quality control measures, and collaborated with teams to optimize financial metrics. I ensured data accuracy in line with US GAAP and IFRS standards and worked to resolve data discrepancies efficiently.
