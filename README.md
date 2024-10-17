@@ -2,7 +2,7 @@ Hi! I’m Sanyam Jain, an MBA graduate from York St. John University. I have a s
 
 ## Education
 - **MBA**, York St. John University (2023-2024)  
-- **MBA**, Indira Gandhi National Open University (2020-2022)  
+- **MBA (Financial Management)**, Indira Gandhi National Open University (2020-2022)  
 - **B.A. (Hons.) Business Economics**, University of Delhi (2017-2020)  
 
 ## Experience
